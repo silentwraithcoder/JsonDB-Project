@@ -30,3 +30,12 @@ Benefits of using JsonPowerDB:-
 - It is low level (raw) form of data and is also human readable.
 - It helps developers in faster coding, in-turn reduces development cost.
 
+ScreenShots
+
+<img width="960" alt="2021-09-09 (1)" src="https://user-images.githubusercontent.com/72653390/132735859-0e658d02-844c-469c-8566-edcda9561223.png">
+
+![image](https://user-images.githubusercontent.com/72653390/132735939-eedd45f1-cbec-4d06-85d2-1fc88113ed87.png)
+
+<img width="960" alt="2021-09-09 (10)" src="https://user-images.githubusercontent.com/72653390/132736000-6beb1fcd-4a25-45b4-a9f3-eb0867cfeec7.png">
+
+
